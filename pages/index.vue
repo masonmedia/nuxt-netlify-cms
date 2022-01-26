@@ -1,5 +1,6 @@
 <template>
   <div class="">
+    <nav-component></nav-component>
     <b-jumbotron
       class="
         d-flex

@@ -11,12 +11,8 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav class="mr-auto">
-        <b-nav-item>
-          <nuxt-link to="/home">Home</nuxt-link>
-        </b-nav-item>
-        <b-nav-item>
-          <nuxt-link to="/blog">Blog</nuxt-link>
-        </b-nav-item>
+          <nuxt-link class="nav-item" to="/home">Home</nuxt-link>
+          <nuxt-link class="nav-item" to="/blog">Blog</nuxt-link>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>

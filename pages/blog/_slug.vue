@@ -2,7 +2,7 @@
   <div>
     <nav-component></nav-component>
     <b-container fluid class="p-0">
-      <b-jumbotron
+      <!-- <b-jumbotron
         class="
           d-flex
           flex-column
@@ -13,16 +13,21 @@
         "
         style="min-height: 500px"
       >
+      <p>Post last updated: {{ formatDate(article.updatedAt) }}</p>
         <h1 class="display-1">{{ article.title }}</h1>
         <p class="h4 font-weight-light">{{ article.description }}</p>
-      </b-jumbotron>
+      </b-jumbotron> -->
 
       <b-row class="p-5 bg-light" align-v="center">
-        <b-col lg="12">
+        <b-col lg="12" class="mt-5">
           <!-- <h1>{{ article.title }}</h1>
         <p>{{ article.description }}</p> -->
           <!-- <img style="position: absolute; z-index: 0; top: 0; left: 0" :src="article.img" :alt="article.alt" /> -->
-          <p>Post last updated: {{ formatDate(article.updatedAt) }}</p>
+          <p class="mb-0">Post last updated: {{ formatDate(article.updatedAt) }}</p>
+          <h1 class="display-1">{{ article.title }}</h1>
+          <p>{{ article.description }}</p> 
+          <hr class="bg-secondary">
+          <!-- <p class="h4 font-weight-light">{{ article.description }}</p> -->
           <nuxt-content :document="article" />
         </b-col>
       </b-row>
@@ -45,3 +50,12 @@ export default {
   },
 };
 </script>
+
+<style>
+h1,
+.nuxt-content h1,
+.nuxt-content h2 {
+  line-height: 98%;
+  margin-bottom: 1.5rem;
+}
+</style>

@@ -7,7 +7,7 @@ title: "Ut tempor commodo "
 date: 2022-01-27T16:22:02.966Z
 description: Anim aliqua duis laboris proident veniam in excepteur quis cillum
   nostrud nulla.
-class: bg-orange
+class: bg-emerald
 ---
 # Welcome to the first Nuxt Content post
 
@@ -16,3 +16,9 @@ class: bg-orange
 Ut tempor commodo sint duis nostrud. Dolor ea consequat do adipisicing aliquip laborum nisi adipisicing ad id duis aliquip nisi laborum. Officia consequat adipisicing labore exercitation nulla culpa reprehenderit. Cupidatat tempor cillum dolore sint fugiat id Lorem culpa commodo reprehenderit ad eu deserunt. Anim aliqua duis laboris proident veniam in excepteur quis cillum nostrud nulla.
 
 <h1 class="display-1 text-success">Big time stuff</h1>
+
+Ut tempor commodo sint duis nostrud. Dolor ea consequat do adipisicing aliquip laborum nisi adipisicing ad id duis aliquip nisi laborum. Officia consequat adipisicing labore exercitation nulla culpa reprehenderit. Cupidatat tempor cillum dolore sint fugiat id Lorem culpa commodo reprehenderit ad eu deserunt. Anim aliqua duis laboris proident veniam in excepteur quis cillum nostrud nulla.
+
+## Ut tempor commodo sint duis nostrud. Dolor ea consequat do adipisicing aliquip laborum nisi adipisicing ad id duis aliquip nisi laborum. Officia consequat adipisicing labore exercitation nulla culpa reprehenderit. Cupidatat tempor cillum dolore sint fugiat id Lorem culpa commodo reprehenderit ad eu deserunt. Anim aliqua duis laboris proident veniam in excepteur quis cillum nostrud nulla.
+
+### Ut tempor commodo sint duis nostrud. Dolor ea consequat do adipisicing aliquip laborum nisi adipisicing ad id duis aliquip nisi laborum. Officia consequat adipisicing labore exercitation nulla culpa reprehenderit. Cupidatat tempor cillum dolore sint fugiat id Lorem culpa commodo reprehenderit ad eu deserunt. Anim aliqua duis laboris proident veniam in excepteur quis cillum nostrud nulla.

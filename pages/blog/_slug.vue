@@ -1,7 +1,9 @@
 <template>
   <div>
     <nav-component></nav-component>
-    <b-container fluid class="p-0" :style="{'background': article.background }">
+    <b-container fluid class="p-0" 
+    :class="article.class"
+    :style="{'background': article.style }">
       <!-- <b-jumbotron
         class="
           d-flex

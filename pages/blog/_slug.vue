@@ -2,8 +2,7 @@
   <div>
     <nav-component></nav-component>
     <b-container fluid class="p-0" 
-    :class="article.class"
-    :style="{'background': article.style }">
+    :class="article.class">
       <!-- <b-jumbotron
         class="
           d-flex
@@ -20,7 +19,7 @@
         <p class="h4 font-weight-light">{{ article.description }}</p>
       </b-jumbotron> -->
 
-      <b-row class="p-5" align-v="center">
+      <b-row class="min-vh-100 p-5" align-v="center">
         <b-col lg="12" class="mt-5">
           <!-- <h1>{{ article.title }}</h1>
         <p>{{ article.description }}</p> -->

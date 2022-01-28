@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav-component></nav-component>
-    <b-container fluid class="p-0">
+    <b-container fluid class="p-0" :style="{'background': article.background }">
       <!-- <b-jumbotron
         class="
           d-flex
@@ -18,7 +18,7 @@
         <p class="h4 font-weight-light">{{ article.description }}</p>
       </b-jumbotron> -->
 
-      <b-row class="p-5 bg-light" align-v="center">
+      <b-row class="p-5" align-v="center">
         <b-col lg="12" class="mt-5">
           <!-- <h1>{{ article.title }}</h1>
         <p>{{ article.description }}</p> -->
@@ -57,5 +57,8 @@ h1,
 .nuxt-content h2 {
   line-height: 98%;
   margin-bottom: 1.5rem;
+}
+.nuxt-content p {
+  font-size: 21px;
 }
 </style>

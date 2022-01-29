@@ -6,7 +6,7 @@ description: What the hell.
 img: https://picsum.photos/1000/800?random
 class: bg-charcoal text-warning
 ---
-<h2 class="display-1">It's better than it sounds.</h2>
+<h2 class="display-1">Corned beef cillum, prosciutto shank porchetta qui. Pig dolore pariatur qui culpa, beef burgdoggen sausage incididunt voluptate. Ball tip fatback pork loin, tri-tip rump laborum pancetta shank ham hock ullamco est brisket. Ipsum biltong corned beef voluptate.</h2>
 
 ### Jowl excepteur 
 

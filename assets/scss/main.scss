@@ -1,7 +1,13 @@
 @import 'colors';
+@import 'text';
 
 body {
     max-width: 1500px;
     margin: 0 auto;
     overflow-x: hidden;
+}
+
+.btn {
+    border: 2px solid;
+    border-radius: 13px;
 }

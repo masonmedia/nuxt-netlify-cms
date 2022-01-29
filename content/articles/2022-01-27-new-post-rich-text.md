@@ -1,8 +1,10 @@
 ---
 title: New post rich text
+category: dadding
 date: 2022-01-27T03:34:26.201Z
 description: A rich test trial
 img: https://picsum.photos/1000/800?random=5
+class: bg-yellow
 ---
 # Big what time come on
 

@@ -4,7 +4,7 @@ category: dadding
 date: 2022-01-29T18:44:01.417Z
 description: What the hell.
 img: https://picsum.photos/1000/800?random
-class: bg-charcoal text-warning
+class: bg-charcoal text-light
 ---
 <h2 class="display-1">Corned beef cillum, prosciutto shank porchetta qui. Pig dolore pariatur qui culpa, beef burgdoggen sausage incididunt voluptate. Ball tip fatback pork loin, tri-tip rump laborum pancetta shank ham hock ullamco est brisket. Ipsum biltong corned beef voluptate.</h2>
 

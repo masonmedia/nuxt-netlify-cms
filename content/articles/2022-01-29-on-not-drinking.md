@@ -4,7 +4,7 @@ category: dadding
 date: 2022-01-29T18:44:01.417Z
 description: What the hell.
 img: https://picsum.photos/1000/800?random
-class: bg-charcoal
+class: bg-charcoal text-warning
 ---
 <h2 class="display-1">It's better than it sounds.</h2>
 

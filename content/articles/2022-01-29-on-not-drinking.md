@@ -3,6 +3,7 @@ title: On not drinking
 category: dadding
 date: 2022-01-29T18:44:01.417Z
 description: What the hell.
+img: https://picsum.photos/1000/800?random
 class: bg-charcoal
 ---
 <h2 class="display-1">It's better than it sounds.</h2>

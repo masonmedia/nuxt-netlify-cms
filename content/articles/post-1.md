@@ -4,6 +4,7 @@ img: https://picsum.photos/1000/800?random=1
 alt: my first blog post
 background: "#E74C3C"
 title: "Ut tempor commodo "
+category: web
 date: 2022-01-27T16:22:02.966Z
 description: Anim aliqua duis laboris proident veniam in excepteur quis cillum
   nostrud nulla.

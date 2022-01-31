@@ -30,4 +30,8 @@ If my very (very) difficult first child (God love him) wasn't a difficult enough
 
 Children (again, bless them) are devastating. They lovable and incredible and amazing. But they're difficult.  And man does alcohol help. Every Mom blog on the planet has a "Wine Time" post or meme or quote or some other shit - which while cliche and eye roll inducing, is absolutely, 100% accurate. 
 
-The problem is, having any type of hangover whatsoever obliterates whatever small amount of life force remains intact when you have kids. Having to wake up to a screaming infant or toddler, get a bottle, change a diaper, or WORSE, deal with a sick or incessantly coughing child (for three full months, then another two after that) is exponentially, immeasurably worse when you have a hangover.
+The problem is, having any type of hangover whatsoever obliterates whatever small amount of life force remains intact when you have kids. Having to wake up at 3am (and again at 4, 5, and 6) to a screaming infant or toddler, get a bottle, change a diaper, or WORSE, deal with a sick or incessantly coughing child (for three full months, then another two after that) is exponentially, immeasurably worse when you have a hangover. 
+
+<h2>Just think back to how bad a hangover was when you were single with zero responsibilities.</h2>
+
+So enter (finally, to the point), not drinking.

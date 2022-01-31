@@ -35,3 +35,5 @@ The problem is, having any type of hangover whatsoever obliterates whatever smal
 <h2>Just think back to how bad a hangover was when you were single with zero responsibilities.</h2>
 
 So enter (finally, to the point), not drinking.
+
+I'm coming up on a year. It's a bit crazy. The craft beer lover in me has found an actually surprising array of non-alcoholic beers available which has kept me feeling like I'm not actually missing as much. There are more people in my boat apparently as it seems more than a few breweries are opening only to make non alcoholic beer. Their owners have similar stories. They were craft beer lovers in their younger days, then had kids and couldn't be hung all the time (or ever), but still loved beer.

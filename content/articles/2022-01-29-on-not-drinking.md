@@ -20,7 +20,11 @@ Needless to say, I liked beer.  And not in a (completely) unhealthy way. I loved
 
 But obviously the worst part of drinking any type of alcohol is the hangover.
 
-I was getting tired of it. And they were getting worse.  The general trend of IPAs toward higher alcohol and crazy haziness (or my trend toward drinking only IPAs and generally loving higher alcohol, dry hopped and double dry hopped and double or triple IPA styles) was taking a toll. I'd be hung after 2 beers. Sometimes badly hung after 3. It would write off a whole day. 
+I was getting tired of it. And they were getting worse.  The general trend of IPAs toward higher alcohol and crazy haziness (or my trend toward drinking only IPAs and generally loving higher alcohol, dry hopped and double dry hopped and double or triple IPA styles) was taking a toll. I'd be hung after 2 beers. Sometimes badly hung after 3. It would write off a whole day.
+
+And with a kid, hangovers suck worse. I'd be livid having to get up in the night. Livid being woken up by screaming every morning. Livid at having slept badly. Which was another downside of drinking in general.
+
+Within a week or less of abstaining I was sleeping better. That was one of the first benefits.
 
 ## Enter my second son. 
 
@@ -41,3 +45,7 @@ Funnily too, some of the best selection is at grocery stores. Ya I feel a bit la
 A few things I can report after being dry for nearly a year with two kids:
 
 I sleep maybe a full 100% better.
+I have moderately better focus. Or, at minimum, I am not as tired and scattered as I would have been.
+The physical and emotional roller coaster involved in drinking - the excitement, the first beer, the glow, the escapism, the fun, then the fatigue, the crash, the poor sleep, the emotional dive, the hangover, rinse and repeat -- was surprisingly nice to take a break from.
+Not drinking leaves you with no/fewer highs, but also fewer lows -- it mostly just makes things even. Your state is kind of level. You feel whatever emotional shit you feel, have whatever physical fatigue etc you have, but without the magnifying glass of alcohol.
+I don't get hangovers. Obviously, life changing. This has also been one of the easiest of the benefits to forget. Terrible as hangovers are, once they're over and your promise to never drink again passes, it's easy to get excited about Friday night.

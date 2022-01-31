@@ -18,7 +18,7 @@ Needless to say, I liked beer.  And not in a (completely) unhealthy way. I loved
 
 ## Feeling better
 
-<h2 class="display-3">But obviously the worst part of drinking any type of alcohol is the hangover.</h2> 
+But obviously the worst part of drinking any type of alcohol is the hangover.
 
 I was getting tired of it. And they were getting worse.  The general trend of IPAs toward higher alcohol and crazy haziness (or my trend toward drinking only IPAs and generally loving higher alcohol, dry hopped and double dry hopped and double or triple IPA styles) was taking a toll. I'd be hung after 2 beers. Sometimes badly hung after 3. It would write off a whole day. 
 

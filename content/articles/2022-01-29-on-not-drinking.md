@@ -47,7 +47,7 @@ A few things I can report after being dry for nearly a year with two kids:
 -    I sleep maybe a full 100% better.
 -    I have moderately better focus. Or, at minimum, I am not as tired and scattered as I would have been.
 -    The physical and emotional roller coaster involved in drinking - the excitement, the first beer, the glow, the escapism, the fun, then the fatigue, the crash, the poor sleep, the emotional dive, the hangover, rinse and repeat -- was surprisingly nice to take a break from.
--    Not drinking leaves you with no/fewer highs, but also fewer lows -- it mostly just makes things even. Your state is kind of level. You feel whatever emotional shit you feel, have whatever physical fatigue etc you have, but without the magnifying glass of alcohol.
--    I don't get hangovers. Obviously, life changing. This has also been one of the easiest of the benefits to forget. Terrible as hangovers are, once they're over and your promise to never drink again passes, it's easy to get excited about Friday night.
+-    Not drinking leaves you with fewer highs, but also fewer lows -- it mostly just makes things even. Your state is kind of level. You feel whatever emotional shit you feel, have whatever physical fatigue etc. you have, but without the magnifying glass of alcohol.
+-    I don't get hangovers. Obviously, life changing. This has also been one of the easiest of the benefits to forget. Terrible as hangovers are, once they're over and your promise to never drink again passes, it's easy to get excited about Friday night. But the consistent lack of feeling like ass has been nice.
 
 I wouldn't say it's exciting. Or dramatic. Or amazing. Or anything any blog will tell you. It's just not bad. It feels pretty good actually, but it isn't some gimme an amen type of moment to tell people about. It's just something that makes days a bit easier, especially with a toddler and a newborn in the same house.

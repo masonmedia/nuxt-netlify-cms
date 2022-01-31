@@ -22,9 +22,7 @@ But obviously the worst part of drinking any type of alcohol is the hangover.
 
 I was getting tired of it. And they were getting worse.  The general trend of IPAs toward higher alcohol and crazy haziness (or my trend toward drinking only IPAs and generally loving higher alcohol, dry hopped and double dry hopped and double or triple IPA styles) was taking a toll. I'd be hung after 2 beers. Sometimes badly hung after 3. It would write off a whole day. 
 
-## Kid(s)
-
-Enter my second son. 
+## Enter my second son. 
 
 If my very (very) difficult first child (God love him) wasn't a difficult enough experience, adding hangovers to the mix was no help. Trouble was, drinking when you have children is a world renown medicinal necessity. 
 
@@ -32,8 +30,14 @@ Children (again, bless them) are devastating. They lovable and incredible and am
 
 The problem is, having any type of hangover whatsoever obliterates whatever small amount of life force remains intact when you have kids. Having to wake up at 3am (and again at 4, 5, and 6) to a screaming infant or toddler, get a bottle, change a diaper, or WORSE, deal with a sick or incessantly coughing child (for three full months, then another two after that) is exponentially, immeasurably worse when you have a hangover. 
 
-<h2>Just think back to how bad a hangover was when you were single with zero responsibilities.</h2>
+Just think back to how bad a hangover was when you were single with zero responsibilities.
 
-So enter (finally, to the point), not drinking.
+## Enter (finally, to the point), not drinking.
 
-I'm coming up on a year. It's a bit crazy. The craft beer lover in me has found an actually surprising array of non-alcoholic beers available which has kept me feeling like I'm not actually missing as much. There are more people in my boat apparently as it seems more than a few breweries are opening only to make non alcoholic beer. Their owners have similar stories. They were craft beer lovers in their younger days, then had kids and couldn't be hung all the time (or ever), but still loved beer.
+I'm coming up on a year now. It's a little bit crazy. I've done other detoxes and stints staying dry, but not ever a year intentionally. The craft beer lover in me has found an actually surprising array of non-alcoholic beers available which has kept me feeling like I'm not actually missing as much. There are more people in my boat apparently as it seems more than a few breweries are opening only to make non alcoholic beer. Their owners have similar stories. They were craft beer lovers in their younger days, then had kids and couldn't be hung all the time (or ever), but still loved beer.
+
+Funnily too, some of the best selection is at grocery stores. Ya I feel a bit lame, but I've also had a few friends join me, at least in part, or be on board for using the non-alcs as a weekday type refreshment and saving the heavy stuff for weekends. 
+
+A few things I can report after being dry for nearly a year with two kids:
+
+I sleep maybe a full 100% better.

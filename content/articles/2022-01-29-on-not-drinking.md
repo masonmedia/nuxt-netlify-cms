@@ -18,8 +18,16 @@ Needless to say, I liked beer.  And not in a (completely) unhealthy way. I loved
 
 ## Feeling better
 
-But obviously the worst part of drinking any type of alcohol is the hangover. I was getting tired of it. And they were getting worse.  The general trend of IPAs toward higher alcohol (or my trend toward drinking only IPAs and generally loving higher alcohol, dry hopped and double dry hopped and double or triple IPA styles) 
+<h2 class="display-3">But obviously the worst part of drinking any type of alcohol is the hangover.</h2> 
 
-### Commodo corned beef 
+I was getting tired of it. And they were getting worse.  The general trend of IPAs toward higher alcohol and crazy haziness (or my trend toward drinking only IPAs and generally loving higher alcohol, dry hopped and double dry hopped and double or triple IPA styles) was taking a toll. I'd be hung after 2 beers. Sometimes badly hung after 3. It would write off a whole day. 
 
-Kevin, sed ham hock turducken consequat beef elit non dolore ut in tempor. Shank exercitation jerky, porchetta ground round prosciutto capicola. Tail brisket venison commodo nulla. Porchetta mollit occaecat, ullamco veniam et flank buffalo duis biltong elit exercitation. Qui brisket incididunt jerky.
+## Kid(s)
+
+Enter my second son. 
+
+If my very (very) difficult first child (God love him) wasn't a difficult enough experience, adding hangovers to the mix was no help. Trouble was, drinking when you have children is a world renown medicinal necessity. 
+
+Children (again, bless them) are devastating. They lovable and incredible and amazing. But they're difficult.  And man does alcohol help. Every Mom blog on the planet has a "Wine Time" post or meme or quote or some other shit - which while cliche and eye roll inducing, is absolutely, 100% accurate. 
+
+The problem is, having any type of hangover whatsoever obliterates whatever small amount of life force remains intact when you have kids. Having to wake up to a screaming infant or toddler, get a bottle, change a diaper, or WORSE, deal with a sick or incessantly coughing child (for three full months, then another two after that) is exponentially, immeasurably worse when you have a hangover.

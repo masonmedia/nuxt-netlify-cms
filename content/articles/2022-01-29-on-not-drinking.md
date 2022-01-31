@@ -10,9 +10,9 @@ class: bg-charcoal text-light
 
 ## No easy task 
 
-To say I am/was a beer lover and craft nerd connoisseur would be an accurate assessment.
-
-I'd be that guy sniffing the hops and going on about yeast and east coast IPAs and how dank it was.  But in a good way.  Sort of.  I knew my local breweries. I was up on any gossip of new ones coming to my area. I'd tried the latest new beers available, I was on the mailing lists, knmew the spots, ordered during covid, and generally was in the know about what the trends were. I also dabbled in homebrewing for a year or so which mostly involved flooding my kitchen and having 3 carboys of fermenting liquid on the floor at any given time.
+To say I am/was a beer lover and craft nerd connoisseur would be an understatement.
+ 
+I'd be that guy sniffing the hops and going on about yeast and east coast IPAs and how dank it was.  But in a good way.  Sort of.  I knew my local breweries. Talked to the staff. In cases knew the brewers or owners. Would ask about recipes. I was up on gossip of new ones opening up. I'd tried the latest beers available, I was on the mailing lists, knew all the good spots, ordered during covid, and generally was in the know about what the trends were. I also dabbled in homebrewing for a year or so which mostly involved flooding my kitchen and having 3 carboys of fermenting liquid on the floor at any given time.
 
 Needless to say, I liked beer.  And not in a (completely) unhealthy way. I loved the act. The event of it. The locations, the patios, the sitting in the sun, the knowing what and where were good. I loved the associated food, the socializing, the experimental flights, the ingredients, the yeast. It was total nerdery.
 
